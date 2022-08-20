@@ -28,7 +28,7 @@ The app will be an opportunity for myself to use all the knowledge that I have b
 
 ## Wireframes
 Low-Fidelity:
-<img src="https://i.ibb.co/gZcpNHy/Clean-Shot-2022-08-20-at-13-13-50-2x.png" alt="lowfidelitywf"/>
+<img src="" alt="lowfidelitywf"/>
 High-Fidelity:
 <img src="https://i.ibb.co/j8pZP1z/Clean-Shot-2022-08-20-at-16-47-21-2x.png" alt="highfidelitywf"/>
 
