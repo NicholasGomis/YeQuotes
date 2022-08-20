@@ -1,5 +1,8 @@
 # YeQuotes 🎲
 
+<img src="https://i.ibb.co/0Yb391L/Clean-Shot-2022-08-20-at-16-56-02-2x.png" alt="highfidelitywf"/>
+
+
 **Table of Contents**
 1. [Purpose](#{Purpose}) 
 2. [mvp](#{Mvp})
