@@ -1,0 +1,3 @@
+The first step of this project is to create the HTML for this project using the low fidelity design.
+
+Second step is if required apply some basic css
