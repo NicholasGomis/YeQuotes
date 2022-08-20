@@ -1,6 +1,6 @@
 # YeQuotes 🎲
 
-<img src="https://i.ibb.co/0Yb391L/Clean-Shot-2022-08-20-at-16-56-02-2x.png" alt="highfidelitywf"/>
+<img src="https://i.ibb.co/QJGjy8V/Clean-Shot-2022-08-20-at-17-04-27-2x.png" alt="highfidelitywf"/>
 
 
 **Table of Contents**
