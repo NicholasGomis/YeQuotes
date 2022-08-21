@@ -1,5 +1,8 @@
 # YeQuotes 🎲
 
+<img src="https://i.ibb.co/QJGjy8V/Clean-Shot-2022-08-20-at-17-04-27-2x.png" alt="highfidelitywf"/>
+
+
 **Table of Contents**
 1. [Purpose](#{Purpose}) 
 2. [mvp](#{Mvp})
@@ -28,7 +31,13 @@ The app will be an opportunity for myself to use all the knowledge that I have b
 
 ## Wireframes
 Low-Fidelity:
+<img src="https://i.ibb.co/gZcpNHy/Clean-Shot-2022-08-20-at-13-13-50-2x.png" alt="highfidelitywf"/>
+
+
+
+
 High-Fidelity:
+<img src="https://i.ibb.co/j8pZP1z/Clean-Shot-2022-08-20-at-16-47-21-2x.png" alt="highfidelitywf"/>
 
 
 
