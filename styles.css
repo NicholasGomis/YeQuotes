@@ -1,9 +1,9 @@
-
 *{
-        background-color: #AEFC27;
+        
     margin: 0;
         /* border: solid 1px red; */
         color: #000000;
+        background-color: #AEFC27;
         
 }
 
@@ -59,20 +59,20 @@ h1{
 button{
 background-color: #000000;
 color: #AEFC27;
-border-radius: 15px;
+border-radius: 10px;
 font-size: 26px;
 
 }
 
 
 img{
-    width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        align-items: center;
+ width: 200px;
+ height: 200px;
+border-radius: 50%;
+align-items: center;
 display: block;
-    margin-left: auto;
-    margin-right: auto;
+margin-left: auto;
+ margin-right: auto;
 margin-top: 55px;
 }
 
@@ -97,3 +97,5 @@ a{
     font-size: 18px;
     margin-right: 25px;
 }
+
+

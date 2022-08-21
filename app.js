@@ -1,5 +1,6 @@
 let quote = document.querySelector(".quotes")
 let btn = document.querySelector("#new-quote")
+let bkr = document.querySelector(".main-container")
 
 
 async function getQuote(){
@@ -8,8 +9,6 @@ async function getQuote(){
     let data = await response.json()
     quote.innerText = data.quote
 }
-
-
 
 
 btn.addEventListener('click', () => {
