@@ -37,7 +37,7 @@ Low-Fidelity:
 
 
 High-Fidelity:
-<img src="https://i.ibb.co/j8pZP1z/Clean-Shot-2022-08-20-at-16-47-21-2x.png" alt="highfidelitywf"/>
+<img src="https://i.ibb.co/kg1CgZk/Clean-Shot-2022-08-29-at-19-10-59-2x.png" alt="highfidelitywf"/>
 
 
 
