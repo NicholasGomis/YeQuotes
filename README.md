@@ -60,7 +60,11 @@ High-Fidelity:
 
 ## Reflection
 
-Working in progress (Reflection will be out once completed)
+Although the nature of the project was simple, I actually learned more than I expected, I believe that all the information and concepts that I digested  in the past weeks, I finally was able to put into practice. This taught me that working on projects is equally if not more important than just learning new concepts as practice makes things perfect. One thing that I can surely seen a big improvement is, once I designed my low and high fidelity design for the app, I needed to replicate it using CSS and HTML, in the past I used to make low and high prototypes but I always ended up with a totally different design in the end. This time was different, I sticked with my final high fidelity design and was able to replicated using HTML and CSS, this not only helped me to improve my skills in those languages but also saved me so much time. 
+I always had fear of using / manipulate the DOM, because I did not fully understand the whole concept, this project had helped me to fight my DOM fears and actually experiment with basic things and solidify my understanding. Adding the fetch API was very useful since I have not fetched the API for a while but thanks to my memory not only I was able to fetch the api and get the data I was interested with, but thanks to a friend of mind I was able to explained him how to properly fetch the data by explaning each bits of the code.
+In the end this project seems that encloses everything when it comes to Front-End. It has some  HTML and CSS that gives a GUI and thanks to the DOM Javascript, user can interact with the website.
+
+
 
 ## Credits
 Nicholas Gomis
