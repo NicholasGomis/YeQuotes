@@ -28,6 +28,7 @@ The app will be an opportunity for myself to use all the knowledge that I have b
 
 ## Beyond MVP:
 - Change background colour everytime a quote is generated.
+- Small animation transition
 
 ## Wireframes
 Low-Fidelity:
