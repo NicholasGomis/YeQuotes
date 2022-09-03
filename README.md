@@ -49,6 +49,7 @@ High-Fidelity:
 - API fetch and data manipulation.
 - Logical thinking and problem solving.
 - Planning the whole process.
+- Fundamental design
 
 
 
