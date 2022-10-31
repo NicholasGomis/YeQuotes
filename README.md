@@ -50,6 +50,7 @@ High-Fidelity:
 - Logical thinking and problem solving.
 - Planning the whole process.
 - Fundamental design
+- Understand Promise  and Response
 
 
 
